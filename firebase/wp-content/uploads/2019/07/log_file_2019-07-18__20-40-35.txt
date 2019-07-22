@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8000
+Data file = /var/www/html/wp-content/themes/galway-lite/demo-content/galway-lite.xml
+Widget file = /var/www/html/wp-content/themes/galway-lite/demo-content/galway-lite.wie
+Customizer file = /var/www/html/wp-content/themes/galway-lite/demo-content/galway-lite.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
